@@ -1,0 +1,16 @@
+com\mycompany\main\modelo\Mesa.class
+com\mycompany\main\modelo\SistemaAutoAtencion.class
+com\mycompany\main\DAO\ClienteDAO.class
+com\mycompany\main\app\Main.class
+com\mycompany\main\modelo\DetallePedido.class
+com\mycompany\main\vista\PantallaPrincipal.class
+com\mycompany\main\DAO\PedidoDAO.class
+com\mycompany\main\DAO\ProductoDAO.class
+com\mycompany\main\vista\VentanaMenuInteractiva.class
+com\mycompany\main\modelo\Producto.class
+com\mycompany\main\app\MainGUI.class
+com\mycompany\main\modelo\Conexion.class
+com\mycompany\main\vista\VentanaMenu.class
+com\mycompany\main\DAO\DetalleDAO.class
+com\mycompany\main\modelo\Cliente.class
+com\mycompany\main\modelo\Pedido.class
